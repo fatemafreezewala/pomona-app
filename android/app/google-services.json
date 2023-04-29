@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "236673300323",
+    "project_id": "pomona-wellness",
+    "storage_bucket": "pomona-wellness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236673300323:android:e1075e8554825cf8740556",
+        "android_client_info": {
+          "package_name": "com.pomona.wellness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236673300323-5cpvjvpjb7skndsphv7tprrgvaf9c9g3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pomona.wellness",
+            "certificate_hash": "5237861fa97221ce4092b16723788cc5e75cdf76"
+          }
+        },
+        {
+          "client_id": "236673300323-cnt5mn5m3gagm7q32jjh8a3ut0kvqj59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pomona.wellness",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "236673300323-e4s2moqaehmjakduhutgcotf4g3o20o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDALqlgy85vQrrVgDpcyGWkwvBZFz-hfcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236673300323-e4s2moqaehmjakduhutgcotf4g3o20o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
